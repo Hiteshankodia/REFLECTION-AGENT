@@ -1,0 +1,5 @@
+python-dotenv
+langchain == 0.3.7
+langchain_google_genai
+langgraph 
+grandalf
